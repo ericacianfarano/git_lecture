@@ -3,3 +3,5 @@ lime
 onions
 cilantro
 pickles
+salt 
+pepper
