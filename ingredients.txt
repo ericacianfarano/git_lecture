@@ -2,3 +2,4 @@ avocado
 lime
 onions
 cilantro
+pickles
