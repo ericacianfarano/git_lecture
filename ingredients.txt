@@ -1,5 +1,4 @@
 avocado
 lime
 onions
-salt 
-black pepper
+white pepper
